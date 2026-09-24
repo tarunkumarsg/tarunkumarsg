@@ -6,3 +6,8 @@ Hello, I am Tarunkumar S Ganiger, a second-year Artificial Intelligence and Data
 ## Skills
 
 C++, Python, SQL, Git, Data Science, and Artificial Intelligence.
+
+
+## Interests
+
+I am interested in AI projects, data analysis, problem solving, and building useful technology solutions.
